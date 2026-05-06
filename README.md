@@ -15,7 +15,7 @@ Welcome to the course!.
 This site is a duplicate of Canvas/MITTuib (ECT-students) for those that has signed up for non-ECT participation,   
 to make sure you too have access to all information needed.   
 
-### TASK 1 | Procrastinator_paper
+### TASK 1 | Procrastinator-paper
 Here is a small teaser to get you i good spirit before the course:   
 https://filesender.sikt.no/?s=download&token=df0e6b75-e7a4-489f-ad51-f7b70b68366d     
 
