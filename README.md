@@ -20,7 +20,7 @@ Here is a small teaser to get you i good spirit before the course:
 https://filesender.sikt.no/?s=download&token=df0e6b75-e7a4-489f-ad51-f7b70b68366d     
 
 *Welcome !*  
-- Erling -    
+**Erling**     
 
 
 
