@@ -11,12 +11,12 @@ Location: Birkhaugsalen, Haukeland University Hospital, main building (room numb
 Course description: https://www.uib.no/en/ccbio/181126/ccbio908-scientific-writing-and-communication-seminar-2026      
 
 ## INFORMATION     
-This site is a duplicate of Canvas/MITTuib (ECT-students)   
-for those that has signed up for non-ECT participation,   
-to make sure you have access to all information needed.   
+Welcome to the course!.   
+This site is a duplicate of Canvas/MITTuib (ECT-students) for those that has signed up for non-ECT participation,   
+to make sure you too have access to all information needed.   
 
 ### TASK 1 | Procrastinator_paper
-Welcome to the course! Here is a small teaser to get you i good spirit before the course:   
+Here is a small teaser to get you i good spirit before the course:   
 https://filesender.sikt.no/?s=download&token=df0e6b75-e7a4-489f-ad51-f7b70b68366d     
 
 *Welcome !*  
