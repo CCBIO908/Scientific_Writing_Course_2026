@@ -8,7 +8,8 @@ Main lecturer: Christine Møller
 Course responsible: erling.hoivik@uib.no               
 Coordinators; ghazal.toussi@uib.no & lorena.larios@uib.no,                      
 Location: Birkhaugsalen, Haukeland University Hospital, main building (room number 4519).        
-Course description: https://www.uib.no/en/ccbio/181126/ccbio908-scientific-writing-and-communication-seminar-2026      
+Course description: https://www.uib.no/en/ccbio/181126/ccbio908-scientific-writing-and-communication-seminar-2026  
+This site: https://github.com/CCBIO908/Scientific_Writing_Course_2026      
 
 ## INFORMATION     
 Welcome to the course!.   
