@@ -6,7 +6,7 @@
 Course days: 19-2. May 2026             
 Main lecturer: Christine Møller             
 Course responsible: erling.hoivik@uib.no               
-Coordinators; ghazal.toussi@uib.no lorena.larios@uib.no,                      
+Coordinators; ghazal.toussi@uib.no & lorena.larios@uib.no,                      
 Location: Birkhaugsalen, Haukeland University Hospital, main building (room number 4519).        
 Course description: https://www.uib.no/en/ccbio/181126/ccbio908-scientific-writing-and-communication-seminar-2026      
 
