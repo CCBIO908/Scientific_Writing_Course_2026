@@ -15,7 +15,7 @@ This site: https://github.com/CCBIO908/Scientific_Writing_Course_2026
 Welcome to the course!.   
 This site is a duplicate of Canvas/MITTuib (ECT-students) for those that has signed up for non-ECT participation, to make sure you too have access to all information needed.    
 
-### Message 2, Assignment 1
+### Message 2: Assignment 1
 Dear all. 
 You should now have access to **Assignment 1**. 
 Please note the deadline for submission: 18th May 2026 @ 11.59 AM (lunch).
