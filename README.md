@@ -16,11 +16,11 @@ Welcome to the course!.
 This site is a duplicate of Canvas/MITTuib (ECT-students) for those that has signed up for non-ECT participation, to make sure you too have access to all information needed.    
 
 ### Message 2: Assignment 1
-Dear all. 
-You should now have access to **Assignment 1**. 
-Please note the deadline for submission: 18th May 2026 @ 11.59 AM (lunch).
-Assignment 1 is obligatory for ECT-takers, and encuraged for non-ECT students.
-Submit directly to me as a backup if you cannot access MittUIB, using "CCBIO908 2026 | Assignment 1" as heading.
+Dear all.      
+You should now have access to **Assignment 1**.       
+Please note the deadline for submission: 18th May 2026 @ 11.59 AM (lunch).        
+Assignment 1 is obligatory for ECT-takers, and highley encuraged for non-ECT students.  
+Submit directly to me as a backup if you cannot access MittUIB, using *"CCBIO908 2026 | Assignment 1"* as heading in e-mail.    
 Good luck !       
 *Erling*       
 
