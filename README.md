@@ -12,11 +12,11 @@ Course description: https://www.uib.no/en/ccbio/181126/ccbio908-scientific-writi
 This site: https://github.com/CCBIO908/Scientific_Writing_Course_2026      
 
 ## INFORMATION     
-Welcome to the course!.   
+Welcome to the course!   
 This site is a duplicate of Canvas/MITTuib (ECT-students) for those that has signed up for non-ECT participation, to make sure you too have access to all information needed.    
 
 ### Message 3: Time schedule /Program
-Finally, the program for the two days on site.     
+Finally, the program for the two days on site:     
 https://filesender.sikt.no/?s=download&token=32ed0f11-4502-416c-b3ad-d6bbbc043e12 
 
 ### Message 2: Assignment 1
