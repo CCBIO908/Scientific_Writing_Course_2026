@@ -25,8 +25,9 @@ When the course starts on Tuesday, you are expected to:
 Also, this is a reminder about Assignment 1, with deadline by lunch Monday 18th. 
 Note, you can freely choose the subject for your problem statement, but my recommendation is to use text that you are working on, or plan to work on, so it is relevant and useful to you.   
  
-And here is some essential course material🐈‍⬛         
-https://filesender.sikt.no/?s=download&token=2f77bd5b-d7e7-4485-8bf1-2376be107c32
+And you have been sent essential course material 🐈‍⬛   
+ - Booklet 
+ - Exercises
 
 ### Message 3: Time schedule /Program
 Finally, the program for the two days on site:     
