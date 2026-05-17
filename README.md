@@ -22,7 +22,7 @@ When the course starts on Tuesday, you are expected to:
  - Engage in discussions and ask questions during the course!    
  - Let me know if you are unable to make it or need adjustments.  
 
-Also this is a reminder about Assignment 1, with deadline by lunch Monday 18th. 
+Also, this is a reminder about Assignment 1, with deadline by lunch Monday 18th. 
 Note, you can freely choose the subject for your problem statement, but my recommendation is to use text that you are working on, or plan to work on, so it is relevant and useful to you.   
  
 And here is some essential course material🐈‍⬛         
