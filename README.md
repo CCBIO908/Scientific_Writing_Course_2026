@@ -15,7 +15,7 @@ This site: https://github.com/CCBIO908/Scientific_Writing_Course_2026
 Welcome to the course!   
 This site is a duplicate of Canvas/MITTuib (ECT-students) for those that has signed up for non-ECT participation, to make sure you too have access to all information needed.    
 
-### Message 4 
+### Message 4: Course info, material and exercises  
 We are soon to meet up for the course.  
 When the course starts on Tuesday, you are expected to:
  - Be on time!      
@@ -25,7 +25,7 @@ When the course starts on Tuesday, you are expected to:
 Also this is a reminder about Assignment 1, with deadline by lunch Monday 18th. 
 Note, you can freely choose the subject for your problem statement, but my recommendation is to use text that you are working on, or plan to work on, so it is relevant and useful to you.   
  
-And here is some essential course material:     
+And here is some essential course material 🇧🇻     
 https://filesender.sikt.no/?s=download&token=2f77bd5b-d7e7-4485-8bf1-2376be107c32
 
 ### Message 3: Time schedule /Program
