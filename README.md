@@ -15,6 +15,13 @@ This site: https://github.com/CCBIO908/Scientific_Writing_Course_2026
 Welcome to the course!   
 This site is a duplicate of Canvas/MITTuib (ECT-students) for those that has signed up for non-ECT participation, to make sure you too have access to all information needed.    
 
+### Message 5: Assignment submission, backup solution
+Since VPN has been introduced as a requirement for access to MittUIB/Canvas a few days ago, some of you have reported issues with access. If you are unable to submit your assignments here, please use the following link for submission:
+https://skjemaker.app.uib.no/view.php?id=21139822
+
+As a last option you can submit directly to me through my email with the heading: "CCBIO908 2026 | Assignment 1"
+Best of luck, and see you soon!
+
 ### Message 4: Course info, material and exercises  
 We are soon to meet up for the course.  
 When the course starts on Tuesday, you are expected to:
