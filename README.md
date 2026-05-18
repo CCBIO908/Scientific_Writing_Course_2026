@@ -15,9 +15,14 @@ This site: https://github.com/CCBIO908/Scientific_Writing_Course_2026
 Welcome to the course!   
 This site is a duplicate of Canvas/MITTuib (ECT-students) for those that has signed up for non-ECT participation, to make sure you too have access to all information needed.    
 
-### Message 5: Assignment submission, backup solution
-Since VPN has been introduced as a requirement for access to MittUIB/Canvas a few days ago, some of you have reported issues with access. If you are unable to submit your assignments here, please use the following link for submission:       
-https://skjemaker.app.uib.no/view.php?id=21139822 
+#### Program Tuesday_Day1:
+<img width="1998" height="936" alt="image" src="https://github.com/user-attachments/assets/b8b438c8-a047-4404-a49c-4a4678e00882" />
+
+#### Program Wednesday_Day2:
+<img width="1984" height="889" alt="image" src="https://github.com/user-attachments/assets/8355e9cb-d919-4100-89f3-ea95638f1976" />
+
+### Message x: Assignment submission, backup solution
+Since VPN has been introduced as a requirement for access to MittUIB/Canvas a few days ago, some of you have reported issues with access. If you are unable to submit your assignments here, please use the following link for submission: https://skjemaker.app.uib.no/view.php?id=21139822 
 
 As a last option you can submit directly to me through my email with the heading: "CCBIO908 2026 | Assignment 1".                
 This applies to both ECT and non-ECT students.     
@@ -51,7 +56,6 @@ Good luck !
 *Erling*       
 
 ### Message 1: Welcome, confirmation CCBIO908 2026
-
 Dear all!  
 Thank you for signing up for CCBIO908, Scientific Writing and Communication.  
 This email confirms that you have been accepted to the course and are registered at MittUiB (2ECT). 
