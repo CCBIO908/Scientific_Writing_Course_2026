@@ -21,7 +21,7 @@ This site is a duplicate of Canvas/MITTuib (ECT-students) for those that has sig
 #### Program Wednesday_Day2:
 <img width="1984" height="889" alt="image" src="https://github.com/user-attachments/assets/8355e9cb-d919-4100-89f3-ea95638f1976" />
 
-### MATERIALS; Booklet & Exercises
+### Message Y: MATERIALS; Booklet & Exercises
 
 Still not able to access the booklet and exercises?    
 https://filesender.sikt.no/?s=download&token=2f77bd5b-d7e7-4485-8bf1-2376be107c32     
