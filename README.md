@@ -22,7 +22,7 @@ This site is a duplicate of Canvas/MITTuib (ECT-students) for those that has sig
 <img width="1984" height="889" alt="image" src="https://github.com/user-attachments/assets/8355e9cb-d919-4100-89f3-ea95638f1976" />
 
 ### Message Z: Refined problem statement:
-Hi guys, great work today!
+Hi guys, great work today!      
 Unless you have already submitted your refined version of the discussed problem statement, please submit here: https://skjemaker.app.uib.no/view.php?id=21149234 (or send directly to my email (erling.hoivik@uib.no).
 
 Remember:  
