@@ -21,6 +21,11 @@ This site is a duplicate of Canvas/MITTuib (ECT-students) for those that has sig
 #### Program Wednesday_Day2:
 <img width="1984" height="889" alt="image" src="https://github.com/user-attachments/assets/8355e9cb-d919-4100-89f3-ea95638f1976" />
 
+### MATERIALS; Booklet & Exerciswss
+
+Still not able to access the booklet and exercises?    
+https://filesender.sikt.no/?s=download&token=2f77bd5b-d7e7-4485-8bf1-2376be107c32     
+
 ### Message x: Assignment submission, backup solution
 Since VPN has been introduced as a requirement for access to MittUIB/Canvas a few days ago, some of you have reported issues with access. If you are unable to submit your assignments here, please use the following link for submission: https://skjemaker.app.uib.no/view.php?id=21139822 
 
