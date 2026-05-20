@@ -13,14 +13,15 @@ This site: https://github.com/CCBIO908/Scientific_Writing_Course_2026
 Welcome to the course!   
 This site is a duplicate of Canvas/MITTuib (ECT-students) for those that has signed up for non-ECT participation, to make sure you too have access to all information needed.    
 
-### Message 8: Assignment 2 | Upgrade text
+### Message 8: Assignment 2 | Upgrade text (Deadline 29. May)
 **AS2 in short:** Take a text you are working on, and improve it using track changes, like you did for AS1, but with a new/different text.   
 This is an individual assignment, required if you are looking for the ECT-credits.     
 Download instructions for AS2 here: https://filesender.sikt.no/?s=download&token=9105482f-7224-46c8-b7f1-4ba93769432e     
 
-For non-ECT participants submit via: https://skjemaker.app.uib.no/view.php?id=21139822  
-If you are unable to submit via MittUIB as ECT-student, you can also sumbit via the same link: https://skjemaker.app.uib.no/view.php?id=21139822    
-Last option is submission directly to my email).     
+Three options for submission of AS2:
+ - MittUIB/Canvas (See assignment tab): https://mitt.uib.no/courses/56178/discussion_topics/529289     
+ - Online: https://skjemaker.app.uib.no/view.php?id=21139822
+ - Directly to my emaisl (last option)      
 
 ### Message Z: Refined problem statement:
 Hi guys, great work today!      
