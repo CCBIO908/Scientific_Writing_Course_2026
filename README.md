@@ -13,9 +13,6 @@ This site: https://github.com/CCBIO908/Scientific_Writing_Course_2026
 Welcome to the course!   
 This site is a duplicate of Canvas/MITTuib (ECT-students) for those that has signed up for non-ECT participation, to make sure you too have access to all information needed.    
 
-#### Program Tuesday_Day1:
-<img width="1998" height="936" alt="image" src="https://github.com/user-attachments/assets/b8b438c8-a047-4404-a49c-4a4678e00882" />
-
 #### Program Wednesday_Day2:
 <img width="1984" height="889" alt="image" src="https://github.com/user-attachments/assets/8355e9cb-d919-4100-89f3-ea95638f1976" />
 
@@ -94,6 +91,9 @@ Looking forward to getting started!
 *Welcome !*  
 **Erling**     
 
+
+#### Program Tuesday_Day1:
+<img width="1998" height="936" alt="image" src="https://github.com/user-attachments/assets/b8b438c8-a047-4404-a49c-4a4678e00882" />
 
 
              
