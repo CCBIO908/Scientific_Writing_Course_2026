@@ -1,5 +1,3 @@
-<img width="1207" height="653" alt="image" src="https://github.com/user-attachments/assets/dd0eafe8-ef99-4ccf-8c89-b693e1816464" /># Scientific_Writing_Course_2026
-
 ## CCBIO908 2026 | Scientific writing & Communication
 ![image](https://github.com/user-attachments/assets/2a3647ab-1aa4-4609-a0ee-ead5755543b4)
 
