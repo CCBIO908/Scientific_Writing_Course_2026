@@ -21,7 +21,7 @@ Download instructions for AS2 here: https://filesender.sikt.no/?s=download&token
 Three options for submission of AS2:
  - MittUIB/Canvas (See assignment tab): https://mitt.uib.no/courses/56178/discussion_topics/529289     
  - Online: https://skjemaker.app.uib.no/view.php?id=21139822
- - Directly to my emaisl (last option)      
+ - Directly to my e-mail (last option)      
 
 ### Message Z: Refined problem statement:
 Hi guys, great work today!      
