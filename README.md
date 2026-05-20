@@ -17,11 +17,12 @@ This site is a duplicate of Canvas/MITTuib (ECT-students) for those that has sig
 <img width="1984" height="889" alt="image" src="https://github.com/user-attachments/assets/8355e9cb-d919-4100-89f3-ea95638f1976" />
 
 ### Message 8: Assignment 2 | Upgrade text
-AS2 in short: take text you are working on, and impove it using track changes, like you did for AS1., but with a new text.   
-This is an insdividual assignment, required if you are looking for the ECT-credits.    
+AS2 in short: take text you are working on, and improve it using track changes, like you did for AS1, but with a new/different text.   
+This is an individual assignment, required if you are looking for the ECT-credits.    
 Download instructions for AS2 here: https://filesender.sikt.no/?s=download&token=9105482f-7224-46c8-b7f1-4ba93769432e    
 
-For non-ECT participants submit via: https://skjemaker.app.uib.no/view.php?id=21139822   
+For non-ECT participants submit via: https://skjemaker.app.uib.no/view.php?id=21139822 
+If you are unable to submit via MittUIB as ECT-student, you can also sumbit via the same link: https://skjemaker.app.uib.no/view.php?id=21139822
 
 ### Message Z: Refined problem statement:
 Hi guys, great work today!      
