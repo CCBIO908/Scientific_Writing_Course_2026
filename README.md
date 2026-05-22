@@ -31,7 +31,8 @@ Unless you have already submitted your refined version of the discussed problem 
 Remember:  
 - Name 
 - Old problem statement 
-- New refined problem statement 
+- New refined problem statement
+- List changes and how you encountered them      
 
  ### Message Y: MATERIALS; Booklet & Exercises
 
