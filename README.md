@@ -13,19 +13,19 @@ This site: https://github.com/CCBIO908/Scientific_Writing_Course_2026
 Welcome to the course!   
 This site is a duplicate of Canvas/MITTuib (ECT-students) for those that has signed up for non-ECT participation, to make sure you too have access to all information needed.    
 
-### Message 9 | Answers to exercises and EVALUATION  (31st May)
-Hi all, and thank you for your active participation during the course.    
+### Message 9 | Answers to exercises and EVALUATION  (31st May) 
+Hi all, and thank you for your active participation during the course.     
 
-1) Please evaluate the course, as soon as possible, and no later than the coming week. 
-When evaluation is completed, you will be redirected to a lottery to win a prize.              
-https://skjemaker.app.uib.no/view.php?id=21170262       
+1) Please evaluate the course, as soon as possible, and no later than the coming week.       
+When evaluation is completed, you will be redirected to a lottery to win a prize.               
+https://skjemaker.app.uib.no/view.php?id=21170262        
 
-2) Extra material from the course is here:   
-https://filesender.sikt.no/?s=download&token=e3531d59-6c6b-476e-96c3-9cdb0fa3ac01 
+2) Extra material from the course is here:    
+https://filesender.sikt.no/?s=download&token=e3531d59-6c6b-476e-96c3-9cdb0fa3ac01  
 
 3) Assignments:   
-Well done with the assignments. Expect some time for us to go through this.   
-We will let you know when this is evaluated and censored.    
+Well done with the assignments. Expect some time for us to go through this.    
+We will let you know when this is evaluated and censored.     
 
 ### Message 8: Assignment 2 | Upgrade text (Deadline 29. May)
 **AS2 in short:**     
