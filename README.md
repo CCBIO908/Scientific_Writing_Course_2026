@@ -17,7 +17,7 @@ This site is a duplicate of Canvas/MITTuib (ECT-students) for those that has sig
 Hi all, and thank you for your active participation during the course.     
 
 1) Please evaluate the course, as soon as possible, and no later than the coming week.       
-When evaluation is completed, you will be redirected to a lottery to win a prize.               
+When evaluation is completed, you will be redirected to a lottery to possible win a prize.               
 https://skjemaker.app.uib.no/view.php?id=21170262        
 
 2) Extra material from the course is here:    
