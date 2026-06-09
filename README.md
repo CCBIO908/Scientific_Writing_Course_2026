@@ -17,16 +17,18 @@ This site is a duplicate of Canvas/MITTuib (ECT-students) for those that has sig
 Dear all.
 
 **Assignments:** We have now read and evaluated all assignments.    
-To all of you, it is good to see that you have applied what you have learnt at the course. 
-Some of you have even encountered texts in a paper that you have published previosly, a bald move, that also shows that it is always possible to improve text.
+There will be no individual feedback. But to all of you, it is good to see that you have applied what you have learnt at the course. 
+Some of you have even encountered texts from papers that you have previosly published, a bald move, that also demonstrates an important lesson: there is always room to improve a text.
 
 **ECTs:** The grades for the course should already be available in Studentweb for those that had signed up for the ECTs. 
 
-**Cup-winners:** For participating in course evaluation; 
+**Cup-winners:** For participating in course evaluation; Maya & Shakil.
 
-Good luck with the scientific writing!
+Finally, thank you for your engagement throughout the course.
 
-E
+Good luck with your future scientific writing!
+
+Best regards,
 
 
 ### Message 9 | Answers to exercises and EVALUATION  (31st May) 
