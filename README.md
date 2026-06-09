@@ -20,7 +20,7 @@ Dear all.
 There will be no individual feedback. But to all of you, it is good to see that you have applied what you have learnt at the course. 
 Some of you have even encountered texts from papers that you have previosly published, a bald move, that also demonstrates an important lesson: there is always room to improve a text.
 
-**ECTs:** The grades for the course should already be available in Studentweb for those that had signed up for the ECTs. 
+**ECTs:** The grades for the course should already be available in Studentweb for those that had signed up for the ECTs and passed the course requirements.
 
 **Cup-winners:** For participating in course evaluation; Maya & Shakil.
 
