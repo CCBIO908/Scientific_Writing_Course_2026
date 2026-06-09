@@ -22,7 +22,7 @@ Some of you have even encountered texts in a paper that you have published previ
 
 **ECTs:** The grades for the course should already be available in Studentweb for those that had signed up for the ECTs. 
 
-**Cup-winners:** For participating in course evaluation; Maya & Shakil.
+**Cup-winners:** For participating in course evaluation; 
 
 Good luck with the scientific writing!
 
