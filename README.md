@@ -13,6 +13,22 @@ This site: https://github.com/CCBIO908/Scientific_Writing_Course_2026
 Welcome to the course!   
 This site is a duplicate of Canvas/MITTuib (ECT-students) for those that has signed up for non-ECT participation, to make sure you too have access to all information needed.    
 
+### Message 10 | Closure
+Dear all.
+
+**Assignments:** We have now read and evaluated all assignments.    
+To all of you, it is good to see that you have applied what you have learnt at the course. 
+Some of you have even encountered texts in a paper that you have published previosly, a bald move, that also shows that it is always possible to improve text.
+
+**ECTs:** The grades for the course should already be available in Studentweb for those that had signed up for the ECTs. 
+
+**Cup-winners:** For participating in course evaluation; Maya & Shakil.
+
+Good luck with the scientific writing!
+
+E
+
+
 ### Message 9 | Answers to exercises and EVALUATION  (31st May) 
 Hi all, and thank you for your active participation during the course.     
 
