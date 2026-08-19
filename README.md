@@ -16,12 +16,16 @@ Information here is no longer available.
 Thank you for your participation at this course in May 2026.
 
 ### Next course 2027
-If you missed the previous course and want to participate next time, 
+If you missed the previous course and want to participate next time,    
 watch out for announcements at www.CCBIO.no, https://www4.uib.no/en/studies/courses and department newsletters.
 
 Next CCBIO908 course is planned to May 2027, exact dates to be determined.
-Students can earn 2 ECT-credits for the course,  
-but there is also a possibility to sign up for non-ECT if you just want and update and course without ECTs, there will be a separate registration for this.
+
+Students can earn 2 ECT-credits for the course,   
+but there is also a possibility to sign up for non-ECT   
+if you just want and update and course without ECTs, there will be a separate registration for this.
+
+It is recommended to sign up early, as seats are limited and fills up quickly. 
 
 For other enquiries, contact course responsible or coordinators.
 
