@@ -7,134 +7,26 @@ Course responsible: erling.hoivik@uib.no
 Coordinators; ghazal.toussi@uib.no & lorena.larios@uib.no,                      
 Location: Birkhaugsalen, Haukeland University Hospital, main building (room number 4519).        
 Course description: https://www.uib.no/en/ccbio/181126/ccbio908-scientific-writing-and-communication-seminar-2026  
-This site: https://github.com/CCBIO908/Scientific_Writing_Course_2026      
 
-## INFORMATION     
-Welcome to the course!   
-This site is a duplicate of Canvas/MITTuib (ECT-students) for those that has signed up for non-ECT participation, to make sure you too have access to all information needed.    
+### This site
+This site was an information site for those that took the course CCBIO908; Scientific writing curse in 2026.
+Information here is no longer available.
 
-### Message 10 | Closure
-Dear all.
+### Course END 2026
+Thank you for your participation at this course in May 2026.
 
-**Assignments:** We have now read and evaluated all assignments.    
-There will be no individual feedback. But to all of you, it is good to see that you have applied what you have learnt at the course. 
-Some of you have even encountered texts from papers that you have previosly published, a bald move, that also demonstrates an important lesson: there is always room to improve a text.
+### Next course 2027
+If you missed the previous course and want to participate next time, 
+watch out for announcements at www.CCBIO.no, https://www4.uib.no/en/studies/courses and department newsletters.
 
-**ECTs:** The grades for the course should already be available in Studentweb for those that had signed up for the ECTs and passed the course requirements.
+Next CCBIO908 course is planned to May 2027, exact dates to be determined.
+Students can earn 2 ECT-credits for the course,  
+but there is also a possibility to sign up for non-ECT if you just want and update and course without ECTs, there will be a separate registration for this.
 
-**Cup-winners:** For participating in course evaluation; Maya & Shakil.
-
-Finally, thank you for your engagement throughout the course.
-
-Good luck with your future scientific writing!
-
-Best regards,
-
-
-### Message 9 | Answers to exercises and EVALUATION  (31st May) 
-Hi all, and thank you for your active participation during the course.     
-
-1) Please evaluate the course, as soon as possible, and no later than the coming week.       
-When evaluation is completed, you will be redirected to a lottery to possible win a prize.               
-https://skjemaker.app.uib.no/view.php?id=21170262        
-
-2) Extra material from the course is here:    
-https://filesender.sikt.no/?s=download&token=e3531d59-6c6b-476e-96c3-9cdb0fa3ac01  
-
-3) Assignments:   
-Well done with the assignments. Expect some time for us to go through this.    
-We will let you know when this is evaluated and censored.     
-
-### Message 8: Assignment 2 | Upgrade text (Deadline 29. May)
-**AS2 in short:**     
-Take a text you are working on, and improve it using track changes, like you did for AS1, but with a new/different text.   
-This is an individual assignment, required if you are looking for the ECT-credits.     
-Download instructions for AS2 here: https://filesender.sikt.no/?s=download&token=9105482f-7224-46c8-b7f1-4ba93769432e     
-
-Three options for submission of AS2:
- - MittUIB/Canvas (See assignment tab): https://mitt.uib.no/courses/56178/assignments/120174             
- - Online: https://skjemaker.app.uib.no/view.php?id=21139822
- - Directly to my e-mail (last option)      
-
-### Message Z: Refined problem statement:
-Hi guys, great work today!      
-Unless you have already submitted your refined version of the discussed problem statement, please submit here: https://skjemaker.app.uib.no/view.php?id=21149234 (or send directly to my email (erling.hoivik@uib.no).
-
-Remember:  
-- Name 
-- Old problem statement 
-- New refined problem statement
-- List changes and how you encountered them      
-
- ### Message Y: MATERIALS; Booklet & Exercises
-
-Still not able to access the booklet and exercises?    
-https://filesender.sikt.no/?s=download&token=2f77bd5b-d7e7-4485-8bf1-2376be107c32     
-
-### Message x: Assignment submission, backup solution
-Since VPN has been introduced as a requirement for access to MittUIB/Canvas a few days ago, some of you have reported issues with access. If you are unable to submit your assignments here, please use the following link for submission: https://skjemaker.app.uib.no/view.php?id=21139822 
-
-As a last option you can submit directly to me through my email with the heading: "CCBIO908 2026 | Assignment 1".                
-This applies to both ECT and non-ECT students.     
-Best of luck, and see you soon! 
-
-### Message 4: Course info, material and exercises  
-We are soon to meet up for the course.  
-When the course starts on Tuesday, you are expected to:
- - Be on time!      
- - Engage in discussions and ask questions during the course!    
- - Let me know if you are unable to make it or need adjustments.  
-
-Also, this is a reminder about Assignment 1, with deadline by lunch Monday 18th. 
-Note, you can freely choose the subject for your problem statement, but my recommendation is to use text that you are working on, or plan to work on, so it is relevant and useful to you.   
- 
-And you have been sent essential course material 🐈‍⬛   
- - Booklet 
- - Exercises
-
-### Message 3: Time schedule /Program
-Finally, the program for the two days on site:     
-https://filesender.sikt.no/?s=download&token=32ed0f11-4502-416c-b3ad-d6bbbc043e12 
-
-### Message 2: Assignment 1
-Dear all.      
-You should now have access to **Assignment 1**.       
-Please note the deadline for submission: 18th May 2026 @ 11.59 AM (lunch).        
-Assignment 1 is obligatory for ECT-takers, and highley encuraged for non-ECT students.  
-Submit directly to me as a backup if you cannot access MittUIB, using *"CCBIO908 2026 | Assignment 1"* as heading in e-mail.    
-Good luck !       
-*Erling*       
-
-### Message 1: Welcome, confirmation CCBIO908 2026
-Dear all!  
-Thank you for signing up for CCBIO908, Scientific Writing and Communication.  
-This email confirms that you have been accepted to the course and are registered at MittUiB (2ECT). 
-The course is fully booked, so please inform us if your plans have changed and you do not intend to   follow the course. (Coordinators: lorena.larios@uib.no & ghazal.toussi@uib.no).    
-
-~~**Time:** Please expect that course hours are between 08-17, both days (detailed time schedule will come later).~~    
-See final program as described above 
-
-**Setting the stage:** 
-Here is a small teaser to get you i good spirit before the course:   
-The Procrastinator paper: https://filesender.sikt.no/?s=download&token=df0e6b75-e7a4-489f-ad51-f7b70b68366d   
-
-**What happens next:**    
-Assignment 1, to prepare before the curse starts, will be made available for you about a week before the course starts, obligatoy for ECT students, but highly recommended for non_ECT students. This is a small task. Other materials will be available to you during the course. 
-
-Looking forward to getting started!  
+For other enquiries, contact course responsible or coordinators.
 
 *Welcome !*  
-**Erling**     
-
-
-#### Program Tuesday_Day1:
-<img width="1998" height="936" alt="image" src="https://github.com/user-attachments/assets/b8b438c8-a047-4404-a49c-4a4678e00882" />
-
-#### Program Wednesday_Day2:
-<img width="1984" height="889" alt="image" src="https://github.com/user-attachments/assets/8355e9cb-d919-4100-89f3-ea95638f1976" />
-             
-
- 
+**Erling**
 
 
 
